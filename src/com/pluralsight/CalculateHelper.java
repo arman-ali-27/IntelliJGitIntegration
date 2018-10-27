@@ -15,6 +15,7 @@ public class CalculateHelper {
     }
 
     private void setCommandFromString(String commandFromString){
-        // add -> 
+        // add ->
+        // Adding another comment line.
     }
 }
